@@ -1,0 +1,3 @@
+parser.c:23:6:parser_init	8	static
+parser.c:29:6:parser_uart_callback	8	static
+parser.c:48:6:parser	48	static
